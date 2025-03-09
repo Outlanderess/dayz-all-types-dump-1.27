@@ -1,4 +1,4 @@
-# dayz-types-full-list
+# dayz-all-types-dump-1.27
 A full list of the types in use in the server I help maintain, including books and other non-vanilla items.
 
 1. Original Rights
